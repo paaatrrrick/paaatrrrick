@@ -1,5 +1,5 @@
 ## Hello, I'm Patrick 👋
-*I'm 21-year-old junior software engineer who will be starting work at Netflix in the San Francisco Bay Area this summer* </br></br>
+*I'm a 21-year-old junior software engineer who will be starting work at Netflix in the San Francisco Bay Area this summer* </br></br>
 I mainly do full-stack development programming and am excited about applying Large Language Models. I'm always open to chatting or working on projects.</br>
 
 ### Common Tech Stack:
